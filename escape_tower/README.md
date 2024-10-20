@@ -2,7 +2,7 @@
 
 This project presents a maze-solving game where a player (warrior) must escape from a tower filled with obstacles (walls) and monsters. The player aims to find the shortest path to escape while minimizing health loss from monsters. Shields are scattered throughout the map, helping the player mitigate damage from encounters.
 
-<img src="./display/display window.png" style="zoom:50%;" />
+<img src="./display/display window.png" style="zoom:25%;" />
 
 ## Design & Solution
 
