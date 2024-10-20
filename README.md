@@ -1,4 +1,4 @@
-# HW-Principle_of_AI_2023
+# Principle_of_AI_2023
 
 This repository contains multiple projects & practice completed as part of the coursework for Principle of Artificial Intelligence (2023 fall), Tsinghua University. Each project focuses on different aspects of machine learning, and data analysis.
 
